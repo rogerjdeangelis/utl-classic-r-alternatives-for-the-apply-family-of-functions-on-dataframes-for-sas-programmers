@@ -69,8 +69,8 @@ https://github.com/rogerjdeangelis/utl-leveraging-your-knowledge-of-regular-expr
 /* ;;;;                         |  # X1 X2                                           |      2**2 + 3**2)  = 13             */
 /* run;quit;                    |  #                                                 |                                     */
 /*                              |  #  1  2                                           |                                     */
-/* SD1.HAVE total obs=2         |  #  3  4 main diagonal sum squares (1**2+4**2)=5   |                                     */
-/*                              |  #       anti diagonal sum squares (2**2+3**2)=5   |                                     */
+/* SD1.HAVE total obs=2         |  #  3  4 main diagonal sum squares (1**2+4**2)=17   |                                    */
+/*                              |  #       anti diagonal sum squares (2**2+3**2)=13   |                                    */
 /* Obs    X1    X2              |  have;                                             |                                     */
 /*                              |  maindiag=0                                        |                                     */
 /*  1      1     2              |  antidiag=0                                        |                                     */
