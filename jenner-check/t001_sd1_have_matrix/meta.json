@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_sd1_have_matrix",
+  "source_file": "utl-classic-r-alternatives-for-the-apply-family-of-functions-on-dataframes-for-sas-programmers.sas",
+  "source_blob_sha": "1fa97c106128d585e47a062c67db842ce17d25d6",
+  "source_commit": "78aecdcc68815c39087507f6e064b86e86b3f13e",
+  "notes": "The repo's native DATA step that builds the 2x2 matrix 'have' (input x1 x2; cards4; 1 2 / 3 4) that the whole document computes on, plus PROC PRINT. Only change from upstream: libname sd1 'd:/sd1' rewritten to WORK so it runs without local disk. options validvarname=upcase kept verbatim."
+}
